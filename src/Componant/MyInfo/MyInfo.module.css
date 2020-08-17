@@ -1,0 +1,61 @@
+.projectBtn {
+  border-radius: 15px;
+  margin-left: 5%;
+}
+.name {
+  font-size: 350%;
+}
+.infoContainer {
+  margin-top: 40px;
+
+  background-color: #0a0908;
+  color: aliceblue;
+}
+
+.myPic {
+  border-radius: 10px;
+  width: 250px;
+  height: 400px;
+
+  margin-top: 30px;
+}
+.Info {
+  text-align: left;
+  margin: auto;
+}
+.imgDiv {
+  width: 350px;
+  height: 400px;
+  background-color: #242423;
+  border-radius: 10px;
+  margin-left: 20%;
+  margin-top: 20px;
+  margin-bottom: 7%;
+  text-align: center;
+}
+@media only screen and (max-width: 750px) {
+  .imgDiv {
+    margin-left: 12%;
+  }
+}
+@media only screen and (max-width: 455px) {
+  .imgDiv {
+    margin-left: 15%;
+    width: 250px;
+  }
+  .myPic {
+    width: 200px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .imgDiv {
+    margin-left: 7%;
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  .imgDiv {
+    margin-left: 5%;
+  }
+}

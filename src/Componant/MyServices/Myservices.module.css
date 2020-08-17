@@ -1,0 +1,77 @@
+.cardDiv {
+  background-color: #e5e6e4;
+  -ms-transform: skewY(5deg);
+  -webkit-transform: skewY(5deg);
+  transform: skewY(5deg);
+  height: 100%;
+  padding: 10px;
+  margin-top: -1%;
+  padding-bottom: 6%;
+}
+.cardContainer {
+  margin-top: 5%;
+  -ms-transform: skewY(-5deg);
+  -webkit-transform: skewY(-5deg);
+  transform: skewY(-5deg);
+}
+.divTitle {
+  text-align: left;
+  margin-left: 0%;
+}
+.servicesHr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 4px solid #6c757d;
+  border-radius: 2px;
+  padding: 0;
+  color: aliceblue;
+  width: 100%;
+  margin-bottom: 4%;
+}
+.title {
+  font-size: 160%;
+}
+.card {
+  width: 80%;
+  padding: 20px 10px 10px 10px;
+  margin-left: 10%;
+  margin-bottom: 20px;
+
+  border-radius: 10px;
+  background-color: white;
+}
+.CardIcon {
+  color: blue;
+  font-size: 200%;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  margin-top: 20px;
+  margin-bottom: -9px;
+}
+.ComputerIcon {
+  color: blue;
+  font-size: 200%;
+  margin-top: 20px;
+  margin-bottom: -9px;
+}
+
+.cardBody {
+  padding: 10px;
+}
+.cardHr {
+  width: 4.5%;
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 4px solid blue;
+  border-radius: 2px;
+  margin-bottom: 40px;
+  padding: 0;
+}
+.row {
+  margin-bottom: 40px;
+}

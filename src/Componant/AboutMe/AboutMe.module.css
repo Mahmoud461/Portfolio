@@ -1,0 +1,56 @@
+.UperDiv {
+  margin-top: 8%;
+  color: white;
+  font-size: 130%;
+  width: 100%;
+}
+.BottomDiv {
+  margin-top: 8%;
+  background-color: #f8f9fa;
+  -ms-transform: skewY(5deg);
+  -webkit-transform: skewY(5deg);
+  transform: skewY(5deg);
+  height: 90%;
+  padding: 10px;
+}
+.innerDiv {
+  margin-top: 10%;
+  -ms-transform: skewY(-5deg);
+  -webkit-transform: skewY(-5deg);
+  transform: skewY(-5deg);
+  text-align: left;
+}
+.Me {
+  text-align: left;
+  width: 60%;
+  margin: auto;
+  font-size: 140%;
+  line-height: 1.8;
+}
+.myPic2 {
+  width: 60%;
+  height: 60%;
+  margin: auto;
+}
+.pic2Div {
+  margin: auto;
+  text-align: center;
+}
+.beach {
+  color: #838383;
+}
+.workWithme {
+  text-align: left;
+  width: 60%;
+  margin: auto;
+  font-size: 140%;
+  line-height: 1.8;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+.AboutmeHr {
+  width: 80%;
+}
+.AboutMeBtn {
+  border-radius: 20px;
+}
